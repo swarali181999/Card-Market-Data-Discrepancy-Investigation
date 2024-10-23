@@ -1,0 +1,16 @@
+Metadata for Source data file
+
+Card Region: Represents the geographical region associated with the card. Used to categorize markets and tailor regional strategies.
+  
+Card Market: Indicates the specific market or country where the card is used. Helps in regional market analysis and targeting.
+
+MKCID: Unique card identifier within the market. Essential for tracking and managing transactions.
+
+Client Organisation: Name of the organization associated with the card. Useful for B2B analysis and client management.
+
+Business Process Date: Date when the transaction or process occurred. Critical for time-based analysis and reporting.
+
+Billed Currency: Currency in which the transaction is billed. Important for financial analysis and currency conversion.
+
+Net Billed Amount: The amount billed in the transaction, reflecting the actual net value. Key for financial reporting and revenue tracking.
+

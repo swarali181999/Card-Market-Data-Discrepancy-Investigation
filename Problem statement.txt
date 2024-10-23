@@ -1,0 +1,13 @@
+As a data analyst, you receive a complaint from a client regarding the dashboard data for a specific market. The client notes that the value displayed on the dashboard exceeds their expected threshold for that market, suggesting a potential issue with the data.
+
+To address this concern, you begin an investigation and discover that the data being loaded into the database appears to be missing some transactions. This is a common situation in data analysis where discrepancies between data sources need to be resolved.
+
+You initiate a series of meetings with the data provider to discuss and rectify the issue. After several rounds of discussions, you receive two sets of data: one extracted from your database and another report from the data source provider.
+
+Your task is now to identify discrepancies between these two data sets. Specifically, you need to determine which markets and dates are affected by missing data.
+
+Additional Considerations:
+
+You need to identify how you will join the two tables and do an apple-to-apple comparison.
+Check that the data is correctly formatted.
+When you have solved the problem using, let's say, Excel only, you can put extra thoughts into how you can automate this. For example, can we develop some code where you can input both files and, when you run the code, it will give you the output file with all the summary and also different sheets for different markets so if anyone wants to analyze further, they can just apply a filter and do it.
